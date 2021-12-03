@@ -1,0 +1,26 @@
+<annotation>
+	<folder>allimages</folder>
+	<filename>photo_2021-11-02 21.42.47.jpeg</filename>
+	<path>/Users/d/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/allimages/photo_2021-11-02 21.42.47.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Mask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>347</xmin>
+			<ymin>747</ymin>
+			<xmax>606</xmax>
+			<ymax>877</ymax>
+		</bndbox>
+	</object>
+</annotation>

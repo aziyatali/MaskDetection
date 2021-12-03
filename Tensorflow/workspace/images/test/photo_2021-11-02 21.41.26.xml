@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>allimages</folder>
+	<filename>photo_2021-11-02 21.41.26.jpeg</filename>
+	<path>/Users/d/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/allimages/photo_2021-11-02 21.41.26.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>960</width>
+		<height>1280</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>NoMask</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>375</xmin>
+			<ymin>717</ymin>
+			<xmax>609</xmax>
+			<ymax>862</ymax>
+		</bndbox>
+	</object>
+</annotation>
